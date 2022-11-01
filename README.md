@@ -7,7 +7,9 @@
        3. <a href="https://github.com/PimMiii/cmgthrcle2"> Easygoods, a webshop build on a PHP backend<a><br>
        4. <a href="https://github.com/PimMiii/Data-Science-IoT-KP02">PRiTC, Positive Reinforcement upon task completion, a Data Science for IoT project.<a><br>
        5. <a href="https://pimmiii.github.io/MARQonepager-CLE">Onepager for my CLE03 MarQ concept</a><br>
-       6. <a href="https://github.com/PimMiii/prg03magazine">My Most Played (Steam)Games, a PRG03 Magazine. build on JS and PHP</a><br>    
+       6. <a href="https://github.com/PimMiii/prg03magazine">My Most Played (Steam)Games, a PRG03 Magazine. build on JS and PHP</a><br>
+       7. <a href="https://github.com/Isissss/CLE4">Created AKino, a game with a cute dinosaur, together with other students</a><br>
+       8. <a href="https://github.com/PimMiii/PRG05-Framework">Developed a project about beer! Called it Cerveza and...</a> <a href="https://pimmothy.live">Deployed it as my first deployment.</a><br>
       
 - 👀 I’ve dabbled in selflearning Python before, with varying success. Selflearning can be a struggle.<br>
       <a href="https://github.com/PimMiii/Kingdom_Invaders"> Kingdom Invaders, followed along to one of the projects in the wonderful 'Python Crash Course' book.</a> 
