@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Pim</h1>
 <p align="center">
+      <!-- Twitter ---> <a href="https://twitter.com/pimmiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pimmiii" height="30" width="40" /></a>
 <!-- Instagram ---><a href="https://instagram.com/pimmothy_cmgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pimmothy_cmgt" height="30" width="40" /></a>
 <!-- Linkedin ---><a href="https://linkedin.com/in/pim-van-milt-b19448227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pim-van-milt-b19448227" height="30" width="40" /></a>
 </p>
