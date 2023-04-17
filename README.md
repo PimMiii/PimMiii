@@ -9,7 +9,7 @@
 <br/>
       <h2 align="center">Projects</h2>
 <h3 align="center">Year 2</h3>
-      <ol>
+      <ul>
             <li>
 🍻 I worked with Laravel to build Cerveza. A Beer reviewing platform. <a href="https://cerveza.pimmothy.live/">Cerveza PRG05</a><br/>        
                   💻 You can find the code here <a href="https://github.com/PimMiii/PRG05-Framework">Cerveza Github</a><br/>
@@ -19,10 +19,10 @@
  Empath aims to help psychiatrists/psychologists and their (teenage) clients, by providing stories, scenarios, and dilemma's to play through and have conversations about.<br/>     
                   💻 You can find the code here <a href="https://github.com/KCvandenBergh/TLE-TEAM01-HSLEIDEN">Empath Github</a><br/>
             </li>
-      </ol>
+      </ul>
       <br/>
       <h3 align="center">Year 1</h3>
-      <ol>
+      <ul>
             <li>
                   🐱‍🐉 I, together with other students, developed <a href="https://github.com/Isissss/CLE4">AKino (Github) for CLE4</a><br/>
      AKino features a cute dinosaur, helping it's city transform into a green utopia. And is featured on the CMGT Arcadecabinet!<br/>
@@ -33,17 +33,17 @@
             <li>
                 🐍 I built an IoT-device, to improve my productivity. <a href="https://github.com/PimMiii/Data-Science-IoT-KP02">PRiTC, Positive Reinforcement upon task completion</a>
             </li>
-            </ol>
+            </ul>
             <br>
             <h3 align="center">Personal Projects</h3>
-            <ol>
+            <ul>
             <li>
                   📝 Teaching myself the basics of code through the 'Python Crash Course'-book, i made <a href="https://github.com/PimMiii/Kingdom_Invaders"> Kingdom Invaders</a> following along to the wonderful guides in the book.
             </li>
             <li>
                 ⏳ Trying to Learn both Sveltekit, and Tailwind CSS, by building a personal portfolio website. Which is not quite ready just yet. 
             </li>
-            </ol>
+            </ul>
             <br/>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
